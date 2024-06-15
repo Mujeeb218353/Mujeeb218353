@@ -3,7 +3,7 @@
 </div>
 </br>
 <h1 align="center">Hi 👋, I'm Mujeeb Ur Rehman</h1>
-<h3 align="center">A passionate MERN stack developer and love to learn new things.</h3>
+<h3 align="center">A passionate MERN Stack developer and love to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujeeb218353&label=Profile%20views&color=0e75b6&style=flat" alt="mujeeb218353" /> </p>
 
