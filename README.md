@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pncr43ddj4u8ex8dfl6390ttexg2t976b0xog1ou&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="mujeeb218353" width="500" />
+  <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" alt="mujeeb218353" width="500" />
 </div>
 </br>
 <h1 align="center">Hi 👋, I'm Mujeeb Ur Rehman</h1>
