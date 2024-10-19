@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Youtube-Twitter**
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, MongoDB, NextJS Auth**
+- 🌱 I’m currently learning **NextJs, ThreeJs, Python**
 
 - 💬 Ask me about **MERN, NextJs**
 
