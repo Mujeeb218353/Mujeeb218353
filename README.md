@@ -49,9 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujeeb218353&show_icons=true&locale=en&theme=dark" alt="mujeeb218353" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujeeb218353&theme=dark" alt="mujeeb218353" /></p>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/mujeeb218353/repos?time_range=all_time&include_private=True&loc_metric=changed&group=private" />
-</a>
-<a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/mujeeb218353/langs?time_range=all_time&include_private=True&loc_metric=changed" />
-</a>
