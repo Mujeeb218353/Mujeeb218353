@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mujeeb218353@gmail.com**
   
-- 📫 My <a href="https://mujeeb-ur-rehman-portfolio.vercel.app" target="blank">Portfolio</a>
+- 🧑‍💻 My <a href="https://mujeeb-ur-rehman-portfolio.vercel.app" target="blank">Portfolio</a>
 
 <h3 align="left" style="margin-bottom: 5px">Connect with me</h3>
 <p align="left">
